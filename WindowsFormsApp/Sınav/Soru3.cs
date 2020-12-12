@@ -69,8 +69,9 @@ namespace WindowsFormsApp1
                 prim = maas * 0.35;
             }
 
+
             String path = "C:/Users/User/Desktop/Prim.txt";
-            FileStream yaz = new FileStream(@path, FileMode.OpenOrCreate, FileAccess.Write);
+            FileStream yaz = new FileStream(@path, FileMode.Append, FileAccess.Write);
             StreamWriter sw = new StreamWriter(yaz);
             sw.WriteLine(" ad : "+ isim +" soyad : "+ soyisim + " ünvan : " + ünvan + " maaş : " + maas + " prim : " + prim );
             sw.Flush();

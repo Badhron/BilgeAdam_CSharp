@@ -14,6 +14,11 @@ namespace WindowsFormsApp1
     {
         int sayı1, sayı2, sayı3, sayı4, sayı5, sayı6;
 
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            kontrol();
+        }
+
         public Soru5()
         {
             InitializeComponent();
@@ -24,21 +29,14 @@ namespace WindowsFormsApp1
             sayı4 = rnd.Next(0, 45);
             sayı5 = rnd.Next(0, 45);
             sayı6 = rnd.Next(0, 45);
-
         }
 
-        private void Soru4_Load(object sender, EventArgs e)
+        private void Soru5_Load(object sender, EventArgs e)
         {
-
+            
         }
-
-        private void Button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         void kontrol()
-        {   
+        {
             int guess1 = Convert.ToInt32(textBox1.Text);
             int guess2 = Convert.ToInt32(textBox2.Text);
             int guess3 = Convert.ToInt32(textBox3.Text);
@@ -46,7 +44,7 @@ namespace WindowsFormsApp1
             int guess5 = Convert.ToInt32(textBox5.Text);
             int guess6 = Convert.ToInt32(textBox6.Text);
 
-            if(sayı1 == guess1)
+            if (sayı1 == guess1)
             {
                 textBox1.Enabled = false;
             }
