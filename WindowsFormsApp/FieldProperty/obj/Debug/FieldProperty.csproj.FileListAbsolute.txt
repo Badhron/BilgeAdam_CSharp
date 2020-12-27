@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\FieldProperty\bin\Debug\FieldProperty.exe.config
+C:\Users\User\source\repos\FieldProperty\bin\Debug\FieldProperty.exe
+C:\Users\User\source\repos\FieldProperty\bin\Debug\FieldProperty.pdb
+C:\Users\User\source\repos\FieldProperty\obj\Debug\FieldProperty.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FieldProperty\obj\Debug\FieldProperty.Form1.resources
+C:\Users\User\source\repos\FieldProperty\obj\Debug\FieldProperty.Properties.Resources.resources
+C:\Users\User\source\repos\FieldProperty\obj\Debug\FieldProperty.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FieldProperty\obj\Debug\FieldProperty.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FieldProperty\obj\Debug\FieldProperty.exe
+C:\Users\User\source\repos\FieldProperty\obj\Debug\FieldProperty.pdb

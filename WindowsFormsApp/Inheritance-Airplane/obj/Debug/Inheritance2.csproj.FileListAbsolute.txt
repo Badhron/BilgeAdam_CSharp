@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\Users\User\source\repos\Inheritance2\bin\Debug\Inheritance2.exe
+C:\Users\User\source\repos\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\Users\User\source\repos\Inheritance2\obj\Debug\Inheritance2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Inheritance2\obj\Debug\Inheritance2.Form1.resources
+C:\Users\User\source\repos\Inheritance2\obj\Debug\Inheritance2.Properties.Resources.resources
+C:\Users\User\source\repos\Inheritance2\obj\Debug\Inheritance2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inheritance2\obj\Debug\Inheritance2.exe
+C:\Users\User\source\repos\Inheritance2\obj\Debug\Inheritance2.pdb

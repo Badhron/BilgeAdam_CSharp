@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Inheritance-Temperature\bin\Debug\Inheritance-Temperature.exe.config
+C:\Users\User\source\repos\Inheritance-Temperature\bin\Debug\Inheritance-Temperature.exe
+C:\Users\User\source\repos\Inheritance-Temperature\bin\Debug\Inheritance-Temperature.pdb
+C:\Users\User\source\repos\Inheritance-Temperature\obj\Debug\Inheritance-Temperature.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Inheritance-Temperature\obj\Debug\Inheritance_Temperature.Form1.resources
+C:\Users\User\source\repos\Inheritance-Temperature\obj\Debug\Inheritance_Temperature.Properties.Resources.resources
+C:\Users\User\source\repos\Inheritance-Temperature\obj\Debug\Inheritance-Temperature.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Inheritance-Temperature\obj\Debug\Inheritance-Temperature.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inheritance-Temperature\obj\Debug\Inheritance-Temperature.exe
+C:\Users\User\source\repos\Inheritance-Temperature\obj\Debug\Inheritance-Temperature.pdb
