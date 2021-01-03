@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SinemaSalonuBilet\bin\Debug\SinemaSalonuBilet.exe.config
+C:\Users\User\source\repos\SinemaSalonuBilet\bin\Debug\SinemaSalonuBilet.exe
+C:\Users\User\source\repos\SinemaSalonuBilet\bin\Debug\SinemaSalonuBilet.pdb
+C:\Users\User\source\repos\SinemaSalonuBilet\obj\Debug\SinemaSalonuBilet.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SinemaSalonuBilet\obj\Debug\SinemaSalonuBilet.Form1.resources
+C:\Users\User\source\repos\SinemaSalonuBilet\obj\Debug\SinemaSalonuBilet.Properties.Resources.resources
+C:\Users\User\source\repos\SinemaSalonuBilet\obj\Debug\SinemaSalonuBilet.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SinemaSalonuBilet\obj\Debug\SinemaSalonuBilet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SinemaSalonuBilet\obj\Debug\SinemaSalonuBilet.exe
+C:\Users\User\source\repos\SinemaSalonuBilet\obj\Debug\SinemaSalonuBilet.pdb
