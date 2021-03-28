@@ -1,0 +1,29 @@
+﻿@model Berkin.Models.Menu
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<meta name="viewport" content="width=device-width" />
+<body>
+
+    <form>
+        <p>
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" />
+        </p>
+        <p>
+            <label asp-for="Desc">Desc</label>
+            <input asp-for="Desc" />
+        </p>
+        <p>
+            <label asp-for="Price">Price</label>
+            <input asp-for="Price" />
+        </p>
+
+        <button type="submit">Submit</button>
+
+    </form>
+
+
+</body>
